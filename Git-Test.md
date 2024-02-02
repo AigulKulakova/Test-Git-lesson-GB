@@ -21,3 +21,5 @@
 ![Это лес](лес.jpg)
 
 ~~зачеркнутый текст~~
+
+для большей информации смотри [Справочник по Markdown](https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference)
